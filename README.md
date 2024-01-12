@@ -4,3 +4,4 @@
 - pyenv install [version] - установить python 
 - pyenv virtualenv [verion] [envname] - создать виртуальное окружение
 - pyenv local [envname] - подключиться к виртуальном уокружению
+- pyenv virtualenv-delete [envname] - удалить virtualenv
