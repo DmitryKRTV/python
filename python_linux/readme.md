@@ -1,6 +1,7 @@
 # Python
 
-сохраняем зависимости, скопирует в requirements.txt зависимсоти из pip
+### Сохранение зависимостей 
+скопирует в requirements.txt зависимоcти из pip
 ```
  pip freeze > requirements.txt
 ```
