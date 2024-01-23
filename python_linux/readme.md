@@ -1,7 +1,6 @@
-# Установка python
+# Python
 
-Linux:
-``` bash
-apt update
-apt install -y build-essential libssl-dev libffi-dev python3-dev python3-pip python3-venv
+сохраняем зависимости, скопирует в requirements.txt зависимсоти из pip
+```
+ pip freeze > requirements.txt
 ```
