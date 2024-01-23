@@ -1,5 +1,7 @@
 # Установка pyenv
 
+команды поочередно вводить
+
 ``` bash
 git clone https://github.com/yyuu/pyenv.git ~/.pyenv
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
